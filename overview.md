@@ -1,2 +1,3 @@
 # Overview
-## computer music | ## embodied cognition
+## computer music 
+## embodied cognition

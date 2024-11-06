@@ -1,0 +1,1931 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2024-10-21T16:39:55Z</Created>
+  <LastSaved>2024-11-04T14:00:39Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Startup>/Users/audiobeing/Library/Group Containers/UBF8T346G9.Office/User Content.localized/Startup.localized/Excel/SaveAsAdobePDF.xlam</Startup>
+   <SheetName>Sheet1</SheetName>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>0</SheetIndex>
+   </Xct>
+  </SupBook>
+  <WindowHeight>20260</WindowHeight>
+  <WindowWidth>30540</WindowWidth>
+  <WindowTopX>3060</WindowTopX>
+  <WindowTopY>740</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s18">
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <NumberFormat ss:Format="h:mm:ss"/>
+  </Style>
+  <Style ss:ID="s20">
+   <NumberFormat ss:Format="h:mm:ss"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000"/>
+   <NumberFormat ss:Format="h:mm:ss"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFDC8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFDC8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#E49EDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#F2CEEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos Narrow" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#94DCF8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s38">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s40">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#FFC000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s41">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFDC8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s42">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Aptos" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFDC8" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="codes"
+   ss:RefersTo="=OFFSET(codes!R2C1, 0, 0, COUNTA(codes!C1), 1)"/>
+ </Names>
+ <Worksheet ss:Name="DVN">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="73" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s18" ss:DefaultColumnWidth="65"
+   ss:DefaultRowHeight="16">
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="130"/>
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="101"/>
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="30"/>
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="81"/>
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="28"/>
+   <Column ss:StyleID="s25" ss:AutoFitWidth="0" ss:Width="645"/>
+   <Row ss:Height="17">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CODE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CODE</Data></Cell>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TIME</Data></Cell>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">TEXT</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">acoustic instrument</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:02:17.000</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell><Data ss:Type="String">So I do have a history of acoustic instruments with the trumpet.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">basics of music</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:03:18.000</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell><Data ss:Type="String">basic ideas of pitches, rhythms and harmony</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">music origins</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:03:49.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">I've always been primarily into music and but also sound and soundscape and that sort of thing.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:04:06.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">And then I realized that there was this use of technology to create sound that where the sound was more important than the instrument.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">sound</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:04:25.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s26"><Data ss:Type="String">So it started from their results</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">new music composers</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:04:34.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">When I was in high school and so on finding out about John Cage and Iannis Xenakis and those kind of things during that period of 15 to 18, I decided that oh, and I also, you know, learned early on about.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">new music composers</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:04:54.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Pierre Schauffeur and music concrete</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:04:54.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">So I decided that the microphone, the recording device tapes were going to be my instrument. </Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">composition</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:04:54.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">I was thinking compositionally. </Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:05:06.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">But those were my media, so I, you know, I got a four track, I got effects processors. I got a microphone, super cheap, low tech stuff. And I worked with that stuff a lot in that, you know, 1516 to 18 time period. Then I amplified it. When I went to undergrad.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">education</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:05:26.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">I didn't go to the School of Music because I wasn't playing instrument. I went for math, but I realized they had electronic music studio with a long history</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:05:36.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">a korg MS-20 had analog synthesizers and tape machines reel to reel tape machines</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:06:14.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">So then I was going back to the synthesizer, you know, engaging the synthesizer and tape reel to reel tape recording multitrack tape recording as a primary medium. I bought a cord MS-2000 precisely because it had a vocoder built into it.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:06:34.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">I got the vocoder, I already had samplers and things like that, so modulation between voice and recorded objects became one step closer to a performative thing like I would set up and perform things in studio as part of set them to tape and then layer them.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">performative</Data></Cell>
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:07:24.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">So that period of 18 to 22 was definitely still like music, concrete, tape manipulation, type things. Composer in the studio. But Performatively engaging the studio.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">new music composers</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:07:56.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">, but I love this sensor based stuff. Met Pauline Oliveros, saw that she was playing an accordion that had expansion to it, and then I retroactively looked back</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:08:08.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">I was playing the studio and she was doing this in the 60s.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">new music composers</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:08:28.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s26"><Data ss:Type="String">And then I found out about David Tudor more than just cage and learned about the boxes and the notion of feedback and systems.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">granular synthesis</Data></Cell>
+    <Cell><Data ss:Type="String">new music processes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:08:40.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s26"><Data ss:Type="String">So that was one point of inspiration and the other one was, you know, the book microsound came out and granular synthesis is becoming a lot more flexible around 2000, let's say 2001, 2002. And I was that aesthetically had me start thinking about.&#160;The notion of the grain and granular clouds and Curtis roads </Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">systems (thinking)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:09:04.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s26"><Data ss:Type="String">Code that you know that was happening and then I thought, OK, I'm seeing this David Tudor, Pauline Oliveros system way of thinking, which seems like you're in the mix like you are a fundamentally part of this kind of complex system, it's noisy, it's big, it's beautiful. Related to that studio practice. And then I really loved Xenakis and like this intense full work</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:09:32.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s26"><Data ss:Type="String">Yeah, with my hands in the moment, like, so this idea of being able to have my hands and also like, you know, learning the xenakis aesthetic, but also the notion about acousmatic playing. </Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">hands on …</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:09:55.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s26"><Data ss:Type="String">hands on the mixer, hands on the equalizer really is a performance of an instrument, bringing things to life, but I want to go further with that. I want to engage like that with my hands on the sound, but where it's a much more complex web of processes like the Oliveros tutor stuff.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">new music processes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:10:15.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s28"><Data ss:Type="String">So digital technology was the way to do that. For me to. This this complex amalgam of granular stuff, you know, granular textures. Of of feedback and interrelationship of things that can come back overtime. </Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:10:40.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">There's, there's a lot of parallels just in that uh, that studio based performance, you know, performing the studio and then, you know, leading to an instrument and then this broader, you know, bubble of studio instrument.&#160;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4" ss:StyleID="s19"/>
+    <Cell ss:Index="6" ss:StyleID="s27"/>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:11:55.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s29"><Data ss:Type="String">What modes are still there and what aren't there until I did that? And then I watched my video as well. So that was interesting. OK, so I've always been a big fan of developing a system and then freezing it. Even if you want to do other things and playing it for a while</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">constraints/limitation</Data></Cell>
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:12:12.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">That's just like, you know, work with the limitations of it. Take notes in the comment boxes within Max. I've got the history of comment boxes all over the place in, in the system that I find later</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell><Data ss:Type="String">new music processes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:12:27.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">And so it did get to a point where it froze, you know, 2010 ish or so, and it incrementally changed. But it froze in a large way and just felt really good. And then it was more the space of performance. I was engaging with, which vaulted vaulted into a lot of questions. Then there was a point both. It was like, inefficiencies that had gathered up over time. It was. I was relying on FTM for some stuff.&#160;I was going down the the road of vocal Mosaicing and that and and and you know MFCC's for processing sounds like kind of vocoder type stuff. Getting back to that and FTM wasn't working. I started getting overly reliant on JAMOMA</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:13:05.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">That wasn't working, so there was a bunch of things that I was becoming over reliant on and it was clunky. And I was, you know, inefficient. But then there were also like I didn't have, I kind of got overly, I felt overly married to certain mappings because they were hard coded and structured in there that I wanted to rethink a little bit.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:13:30.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">The other one is the UM… This kind of long form thing about doing this the the like recording, pressing the button recording and then that being a multi layered object that is control data as well as sound data. You know I was in my previous version I was using the MTR object in Max to record the the Wacom Pen and all these other things right.And then I matrix to send that to places and then line that with the sound. But then I'm like, oh, OK, well, mubu is lining that all up and Oh my God, it's now connecting with catart, which I put down because of FTM, etcetera, etc.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:14:24.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">Let me start to like the play module. Let me pull this apart and pull little bits apart and then put them back together again with the mubu playback database, kind of the the database stuff structure built into it central, so that that was really the impetus for redoing it. And then that that drove me to think, OK, well then I could get new controllers because it's always been about the mapping, the metaphor and the sound, and then working backwards.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">memo</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"/>
+    <Cell ss:Index="6" ss:StyleID="s32"><Data ss:Type="String">both DVN &amp; Francesco discuss starting from the sound, and then 'working backwards' towards instrumental intentions</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell><Data ss:Type="String">hands on …</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:14:53.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s29"><Data ss:Type="String">How it works like I can't get rid of the Wacom, nor do I want to and this is me getting to the gesture metaphor and this kind of by manual thing. I can talk more about, but I have always wanted to be able to set the pen down, have two hands</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:15:33.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s31"><Data ss:Type="String">And then basically 2 novations in the MIDI, the MIDI, whatever the the Akai one. That was me thinking, OK, can I compactify this to three things rather than a longer row of things that. Yeah, yeah. Can I force myself into, you know, there's.&#160;Because they have so many sliders and knobs and buttons like OK, can I force myself into that?&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">memo</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"/>
+    <Cell ss:Index="6" ss:StyleID="s32"><Data ss:Type="String">both DVN and Francesco discuss reducing/limiting the controllers…</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:15:59.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">So what's not there now? So before I always had three granular spectral modules.&#160;And then I had Three like standard audio loopers, the idea being that I could record content into them, or I could just have even more. Likely I have like let's say there's a source file that's being processed and manipulated. The source sample could be over here so I can just play the just the standard vanilla source sample. With this speed change, because I wanted the thing that was more like a turntable, the thing that was more pitch speed tied together and the thing that.&#160;Was decoupled from that</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">metaphor</Data></Cell>
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:16:43.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">And you know, using like, you know, SF, whatever the the the play display it was kind of nice to be able to like. You know, if I threw this metaphor of throwing a a sample over to that list, it would just creep up so I could see the list of them going so I could be like 03 back is this one. I can. I can go back to this one and and I should say I have like 3.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:17:05.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Things that are like collection of samples like with a description so like UM, you know one is low mid.&#160;Percussion and glitches. That's the name of one. And then. So that's a grouping of stuff and you Know.&#160;It's not a catart grouping. It's not the machines not grouping. It's like me grouping it cuz I think it's relevant. So and then within that there's folders and within that there's samples, right? So and those three, the idea is like this one is ready to go and.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:17:34.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">If you think of the three granular, it's like I could go to this one or this loop. Or I could send it to the other ones.&#160;But I'm thinking of.It being like layer 1, so there's a compositional thing there in terms of three layers of types of content.&#160;Right, so I didn't put the sample loopers back at all so far because I want to force it through the MUBO channel more. </Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:18:01.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">I only have Two granular instead of three granular, granular spectral loopers processing modules right now that have two types of granular stuff, 1 is. Yeah, 1 is a granular method. That is the second to 2.5 method using it's like. Basically it's it's a very nice way to be able to smoothly change things, but you can't separate the grains of the space between them. And then I have another one where you can separate the space between them using the ROGS from your ircam Rog method, and I overlaid them on top of each other, so it's like 1. They could have two different samples, but usually I play them with the same sample at The same point. </Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:18:53.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Yeah. And then, uh, I don't have the mubu playback working on this now. I've been more focused on putting the MUBU Catart center in front of me as opposed to it used to be like a layer that would I could change the B patcher and look at it. So it was like.I made it more center visually.&#160;And bigger.&#160;And tied it to the morph, which is.&#160;New.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">metaphor</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:19:17.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">And then I used to have this this kind of idea of throwing content, which for me is always like. It's either been like tied to the gesture on the tablet, or oftentimes it's.&#160;Tied to a key on.&#160;The Keyboard so like I.&#160;If I've done something right now and it's been recorded, it's in short term memory. I press a button, it goes somewhere </Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">metaphor</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:19:41.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">So I've been more playing with how it feels to go through catart space and then throw content when I pass over the grain. So like a quick way to grab something and send it somewhere right? So I guess like I had something like that before, but it's just so much more integrated now.&#160;Because Mubu is so compact and smooth.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:20:05.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Yeah. So I've been really focusing on that kind of throwing of content around. And then I used to have like the chain of types of effects I always had like 8:00 to 12:00 for each of those 3 plugins and or like sub patches that have certain.&#160;Thing you know, qualities to them. And now I've tried using just 12 chain of 12 things and then just using a.&#160;Matrix to choose what goes.&#160;To it.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:20:34.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Which is a bit of a change structurally and I think it changes.&#160;A little bit.&#160;The thinking of the left hand and then metaphor like interaction, metaphor wise, I think a lot about.&#160;Well, you know, I don't have sequences of like I don't have a grid of time like a 16 step sequencer. It would be easy to add that, but I don't want to do that. I'm a big.&#160;Fan of loops coming from, I mean OK, here's tablet loops coming from the very human, idiosyncratic nature of not perfectly being able to do that. And just like, like, you know, things that. </Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:21:18.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">And honestly, I don't care visually if people see this like in the one of the clips I chose.&#160;Yeah, I'm doing that for a long, long time, and the only reason you know I'm doing it is I'm telling you. And if you look back at the video, you can see the pen there.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:21:31.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Yeah. Yeah. So it was just doing that. It would have something equivalent to that. Maybe there might be a.&#160;Little.&#160;Bit of motion too. And then this button and this button is to clear it. This button is like catching it, so it's very much relating to EAO. It's very much this kind of thing.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:21:52.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Yeah. So and then just like so much of the interaction comes from manually creating these loops by hand, it's like it's my Etsy store of little loops, handmade little loops, and then once they're the idea is once they're captured, they have meaning because you hear them. They're looped, they're there and then OK.&#160;And they propagate through the system. You know, I always thought about, like, you know, Pauline and Tudor type way of thinking of like, OK, but instead of just sounds going through the system, it's the description of a gesture and it's.&#160;In.&#160;It.&#160;And then how can it propagate through the system and affect it in different ways, right?&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:22:38.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s29"><Data ss:Type="String">I remember having a conversation with Pauline once when I first earlier when I got to RPI about it was kind of like important for me to reflect on that.&#160;A loop isn't always a loop in the sense that you don't perceive it to be a loop. It's just a repeated content that can drive other process. It could just be a sound loop that goes to some kind of sound processing and you don't hear the loop. It's just a generator. But there's a.&#160;Regularity.&#160;Of activity there's a there's a continual. So yeah, how far can that be pushed as a structural determinant?&#160;You can say</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">immediate action response</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:23:57.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s33"><Data ss:Type="String">So you're really talking about by. It's a bit of a loaded content loaded expression, immediate action response</Data></Cell>
+   </Row>
+   <Row ss:Height="102">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:24:43.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">You know, and so an example of a thing I think would be akin to. To akin to not the same as I because I I think that when you what you do is play the violin, you're going to reach a certain kind of type of expression with that. That is like sublime. If you're. If you're doing that for 50 years with that very, very limited, because I think you're in some sense, it's a very limited set of actions with infinite variation on that because of material. Qualities of physical things. But you know, like, OK, I'm here on the tablet, pressure is volume and it's got the right just the right transfer function, the right field to it for the volume and you know left right position and sample up down you know a grain rate would be a very common thing for me and then. </Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:25:29.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Second hand on a touch where that touch effects more like a state interpolation of different parameters that are not those things. So grain size.&#160;Force choice of where the boundary of the you know what basically the XY mapping where in the sample it is changes. You know that's the thing I like to do like so the XY like it might be over here. It might be over here. It might be here.&#160;Yeah. So things like that, a a gain that feeds into an effect for example. So it could be that there's like, you know, left hand changing a few parameters right hand changing a.&#160;Few parameters, right?&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">memo</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"/>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">It seems like in this 'dissertaion' and/or study 9edis) the landscape of gesture needs to be described in much detail to emphasize the dsiconnect or 'uncoupling' of action-sound into a design space for interaction leading to a variety examples of simple one to one mappings, complex mappings, and all mappings leading to the same result. THE POINT is to empasize the inherent design space grounded in the uncoupling. </Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:26:13.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">And then another one, another example would be here and then a left hand is the gain into a certain chain of reverb or something. That's a very common thing.&#160;So to me, that is the violin model. That's like the immediate something happens and that happens. So then there are other layers of things that are degrees of immediacy or removal that are intentional action that are affecting the sound so.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:26:43.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">I think if you are looping something like if I record that set of data and then loop it and then I'm changing the speed of that.&#160;It's still immediately doing that, but there's somehow one layer of removal of changing because it can be changing the speed of that and you can you can think of this and I didn't do it in the session by the way, but this is an example of a common thing to do is when I have the mubu and then there's like a gate for all the data coming, SVP all the data.&#160;Coming from granular etc. And like changing the speed of that and then freezing what comes out of it and then start.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:27:19.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">Again, so it's like this idea and I talked about in the Moco paper of like being at different points in the timeline. So for me that's still an actively playing the content, but it's like doing something with content kind of zooming out to seeing it and then changing its time scale and it's.&#160;It's it's topology of influence you can say.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:27:57.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">I did.&#160;That in one.&#160;Of the examples that were in the video, again, very much an active thing, but it's like playing with those. They become like objects that can be juxtaposed and played more like a turntablist choosing a record and then doing.&#160;Something with it?&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:28:13.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">It kind of shifts to that kind of paradigm, but it still is immediate action, right?&#160;Then I I feel like a layer of removal from that. Oh, and, you know, microphone into things, right. Like, I've decided along the way that you.&#160;Know.&#160;Clearly I'm really into toy accordion and harmonica these days. It's just like you know, I was hesitant because of the I embraced the Pauline reference that I was hesitant about.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:28:55.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">More like richer. You can control the richness of harmonics and the beating between them pretty well, so you can build harmonic relationships that are pure or rough. That is an instrumental thing, but it's instrumental thing. Putting it in the system, recording it with a view to doing something with it.&#160;Which is a bit different.&#160;And then the delay lines I have which come through Indiana.&#160;The video where I talk about feeding gestural content into something.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell><Data ss:Type="String">randomness</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:29:26.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">You know those are delay lines that run over the. I'm choosing where in memory.&#160;So is it like right now? Is it 5 seconds ago? Is it, you know 5 minutes ago? We're in memory. We're kind of.&#160;Probabilistically grabbing from and then what is the kind of? It's all random tuned randomness, so like how many of them are they're going to be like density. You know how much are they going to warble or how much are they going to sound like what?&#160;It.&#160;Originally sounded like, you know, I'm. I'm changing those things, but I'm setting those up like I'm tuning.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="102">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:30:04.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Tuning something and then feeding content into it and trying to be mindful while I'm doing something else that it could be that this thing is feeding into it. It could be that this thing is going to.&#160;The type of.&#160;Other type of processing that then feeds into it. So that's like setting that up, listening for it and you know feeding content into it with the awareness that it's there and then the action could be just the global gain or the action could be changing.&#160;Changing the structure of that I always have a knob for like a hard knob for density, where when I change.&#160;It it'll like.&#160;Go. You know, there's up to 40 delay lines in one of those bins. I could if it's on 40, I can.&#160;Make it go down to two, right? So that's a direct action to change density .&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">context explanation</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:38:01.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Yeah. Yep. Well, I will say for this experiment, it was a little different in that I was looking for something that was demonstrative more than I would outside of this context.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="102">
+    <Cell><Data ss:Type="String">context explanation</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:38:17.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">This is just a stance on digital musical instruments systems and you know Particularly when I was in the context of kind of wanderly DMI type universe, it wasn't, you know, in contrast to that, I've never been that interested in people knowing anything about what's happening about the processes whatsoever. I care about that, that idea of getting hands on… The sound and processes this intersection between sound structure process in an immediate way where it's just it's constantly being negotiated and and nuanced and worked with and it builds to this broader thing so.&#160;If I were not doing if I was listening back to this, I would purposefully not. I'd close my eyes the.&#160;Entire time.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">value in perceptio</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:41:01.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">So again, it's just got to, it's got to touch me when I'm listening to.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">instrument vs instrumental system</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:42:23.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Yeah. And whether whether we allow a network of relationships that has more of a a network of influence where the action also is tied to guiding and like guiding and anticipating a process.&#160;As well as action sound action to output, it depends where we allow that within the definition of instrument versus instrumental system. So I think you know because I think that's part of it. But I think it's a composed structures that are then being guided and put towards and.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">instrument vs instrumental system</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:42:55.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">For sure it becomes this kind of like you know, and it has a lot of the markers of what one might call a composed instrument in that like I think to myself, well, why am I not just, like doing pieces that are like an interactive piece, like someone like a touch knocking does like an interactive piece. And that's the piece. And it moves on to another one.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">instrument vs instrumental system</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:43:15.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">But every time I do that, it's taking grace and making special parameters to plug into it, basically because it has this meta structure to relate to these things, probably to a fault where I make it harder to plug into it rather than just starting with.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">boundary/category shift</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:44:18.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">Yeah, I think that there's like something that's major in the.&#160;The world of I think the world of electroacoustic improvisation more broadly, but I think that it becomes really heightened and maybe there's a category boundary shift, but like completely different digital world as opposed to when analog electronics are being dealt with is that.&#160;I am.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="119">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell><Data ss:Type="String">systems (thinking)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:44:44.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s30"><Data ss:Type="String">I think I think well, first of all the the the sound focused nature of source blending and then being this kind of like malleable thing that it's like this more abstract palette. I think that that is something in the broader electroacoustic improvisation community that happens where all of the things we talked about about.&#160;The Safarian in Sharian and etcetera about the divorce all from source and trying to understand the the broader texture and all these challenges about like recognizing a thing and how a thing can come out of.&#160;Multiple things come out of a thing. They can fuse into a thing, and how those forms kind of bleed into each other and come out the the the beauty and the challenge of listening in that context is broadly in electronic music, improvisation. And then when you add these systems and you're performing in that world, you have that and you have the.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell><Data ss:Type="String">systems (thinking)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:45:40.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">The the challenge and the beauty of you can be this entire universe of sound, and you can be the star universe of sound with scheduled like planning in past and future that comes into play. And so you're forced to think about projection and reflection.&#160;To manage this larger sound where you have to reflect on these little bits as they're moving and compose on the spot, and understand that and stay within your means where you're not just going to be completely lost within this world. So you have to listen to like you have to either whether your process is action pull back.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">listening</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:46:20.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">Action pull back or you can get into this Dow of being in that while doing things that there has. I think that you have to listen forward, listen back, listen in the moment and like, have this embodied attention to processes that are underway that you have to.&#160;You're responsible for it, but you have to curate, guide, steer as much as you know, hit something and have it Come out.&#160;</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s19"><Data ss:Type="DateTime">1899-12-31T00:46:48.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s27"><Data ss:Type="String">If that makes sense. So there's this interesting relationship to gesture and causality, which is also tied to this timing thing of future. In the past. You be that entire orchestra and you can be that.&#160;In a productive way or in a way that you just get lost in noise.&#160;You're praying that someone comes and saves you.&#160;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>125</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C3:R10C3,R2C1:R3793C2</Range>
+   <Type>List</Type>
+   <Value> codes</Value>
+  </DataValidation>
+ </Worksheet>
+ <Worksheet ss:Name="Francesco">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="87" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Span="1"/>
+   <Column ss:Index="6" ss:StyleID="s38" ss:AutoFitWidth="0" ss:Width="672"/>
+   <Row ss:Height="17" ss:StyleID="s16">
+    <Cell><Data ss:Type="String">CODES</Data></Cell>
+    <Cell><Data ss:Type="String">CODES</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">TIME</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s24"><Data ss:Type="String">TEXT</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">naming system</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:02:37.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">It yes, actually I don't know how to pronounce it yet, but it's a closer it's, you know, the O with the.You say with the. Back back slash on the open.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">naming system</Data></Cell>
+    <Cell><Data ss:Type="String">input/output</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:02:53.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I think, yeah, it's a Norwegian, I think kind of symbol that pronounced kind of O like a closed O. And yeah, it has a I mean to me has one meaning which is I mean I work a lot and I'm really curious and fascinated about input and output word like.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">naming system</Data></Cell>
+    <Cell><Data ss:Type="String">input/output</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:03:10.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s41"><Data ss:Type="String">What are the distinction between in and output when you know input becomes outputs and the output comes back again. So where is the boundary between these two topics and also one of my friend also said we who is he said that means also empty sets. This mean this this symbol which is.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">blank canvas (empty set)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:03:30.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s41"><Data ss:Type="String">Also nice for what I'm doing. I start from. I mean everybody does, but in my system especially there is this kind of concept of empty set that you have to fool and once it's ready then you can start doing music.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data></Cell>
+    <Cell><Data ss:Type="String">form/structure</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:07:07.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">The first one is a is a kind of. You know I have. I use these three ways. Like as you say as you saw and you might have understood like my system is really improvisation based. So there is not really a structure and I try to follow more kind of Sonic feedback.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell ss:Index="2"><Data ss:Type="String">form/structure</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:07:26.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">From the system and I try to, you know, build up a moment that somehow try to rise more. Musical material. And then of course, after you write something, there is might be there might be a climax or something like a lot of things happening. But before getting there, there is a kind of build up. And then from this climax things start to, you know, and fade out. And I have a lot of these things.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">acoustic instrument</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:11:12.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">So I'm a I'm a trained pianist and I I like a lot to play the theremin, so I since. Very early I tried to combine the words of touching physically and instrument and having a specific technique to play something with something more intuitive, which is determined like you don't really have a technique you might.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">interaction with instrument</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s20"><Data ss:Type="DateTime">1899-12-31T00:11:42.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">Want to check out some you know, standard ways of playing it, but at the end is every is all about your interaction with the space with your own body and the instrument itself. So I always somehow worked through these two domain of a very specific and controllable instruments although.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">interaction with instrument</Data></Cell>
+    <Cell><Data ss:Type="String">combine acoustic &amp; electronic</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:12:02.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s41"><Data ss:Type="String">Of course, the pianist can say it's very hard and you can really get lost in it. But in comparison with the theremin, which is very hard to play and you really have to be in 100% control of the movement of your. Buddy, I started to think about how to combine the world of acoustic instrument with electronics and I found out like my experience has been to work with the traditional instrumentalists and process their own sound in real time. So I've always worked with.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">interaction with instrument</Data></Cell>
+    <Cell><Data ss:Type="String">gap between acoustic and electronic muscicians (duo)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s20"><Data ss:Type="DateTime">1899-12-31T00:12:36.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">So I've always worked with In a kind of live electronics scenario and I found a lot of big gap between. The instrumentalist on stage and me behind the computer with a MIDI controller try to I I never understood if it was a dialogue between me and the instrumentalist, or if it was a duo, or it was just me trying to augment the the the sound possibility of the  instrumentalist so that I started to question myself. What can I what can be interesting to combine these two things in one in one?</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">machine learning</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:13:11.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">In one entity so that the idea of all started by creating by searching, searching around about machine listening, machine learning, so that an instrumentalist can build a set of gestures that can either be related to the way they play their instruments or. In the case of my instrument, where? I set up my own kind of gestural ideas and sound and space exploration, so I don't know if I answered your question, but.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">closer to sound in an embedded way</Data></Cell>
+    <Cell><Data ss:Type="String">gesture &amp; intention</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s20"><Data ss:Type="DateTime">1899-12-31T00:13:47.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s41"><Data ss:Type="String">Yeah, I think that my relationship with that is just to try to find a way to get closer to to the sound in a kind of embedded way. So I really, I'm really interested in gestures and movements and controlling sounds by means of gesture and intentions. So I'm still investigating the real let's say core and probably answer but. I feel like I'm in. I'm in this. I'm in this place. Now</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s36"><Data ss:Type="String">What drew you to MACHINE LEARNING and those Technologies</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">facination with new tecchnologies</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:14:40.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">Well, two things. One, one, I think, I mean everybody guess it's fascinated about new things. It was definitely one of the main reason</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">mapping was too Cerebral</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:14:40.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"><Data ss:Type="String">But I would also say it was a need a really embedded need on my way of working. I was using very traditional way of composing and I started to find out that it was not.Not very expressive for me to build everything from scratch in the sense like my the real. The main reason why I moved to machine learning was because my approach to mapping. A controller with with some sound processes became too much rational and too much. As you say you would.  Cerebral</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">mapping was too Cerebral</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:15:27.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I don't know the term in English, but you really had to plan. You know, a lot of conditions, a lot of scaling functions, and if you would choose if you would change something, the rest would somehow fall apart. So it was really tricky for me to find out a meaningful and a strong, you know, mapping setting that I could use. In a kind of an in an expressive way during a performance.</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">focus more on music and expression than mathematics</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:15:52.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s41"><Data ss:Type="String">And by first using wekinator and some other platforms for machine learning I very easily found out that in few seconds you can build up digital instruments or digital interface. And by making training sets like combining some like some kind some input.Puts data with your own synthesizer or some video editing and something like this and I found it very fascinating how powerful it is and I started to focus more on the musical, let's say aspect rather than thinking about mathematical formulas to, you know, make my mapping. So that was the reason. The need and of course, fascination for things.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">describe your experience using machine learning, so maybe even kind of going in a bit of choosing the gestures and making that relationship</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">new music processes</Data></Cell>
+    <Cell><Data ss:Type="String">max - nodes</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:18:42.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">Yeah. So I I would start like just saying mentioning that the the object or the system that I was using before using machine learning is nodes the the object nodes in max that gives you some kind of preset interpolation between different. You know position in space </Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">machine learning</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:18:42.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">from there I started to find out that this idea of machine learning for for what I use like at the moment, the algorithm that I mostly use is linear regression. So it basically gives me control over continuous data so that I can. Record a, not a gesture yet, but I can record a position or a state,   a fixed state in time and a fixed sound in time. </Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">machine learning</Data></Cell>
+    <Cell><Data ss:Type="String">randomness</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s20"><Data ss:Type="DateTime">1899-12-31T00:19:25.000</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">So what I mean with that is that I can decide and say this is my position #1 and I want to associate this position with a specific sound that I search and as I was saying in the reflection. I get very interested by using some kind of random system that allows me to to have a more open, reduced kind of listening of the sound and then as soon as I find something that tracks my attention, I try to. So let's say I get a sound that I Like.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">machine learning</Data></Cell>
+    <Cell><Data ss:Type="String">record position</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:20:06.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">And this sound might. Give me suggestion of which kind of gesture can be associated with this sound right? If there is a high pitch sound like very dense kind of sound then you know my my hands could be you know opening so I can for example record this position and have that sound associated with this position. And once I iterate.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">max - nodes</Data></Cell>
+    <Cell><Data ss:Type="String">no sound beyond states</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:20:30.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">This process of training set like recording and training sets of gestures and sound. Then I will have a kind of space in which I can move around and while with the nodes object, if you would. Have. A. Two points like 1:00 and 2:00. You could interpolate between .1 and two, but if you would go out of these two points, you would have emptiness, right? You don't have anything but what machine learning and this tool that I use in. Max.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">machine learning</Data></Cell>
+    <Cell><Data ss:Type="String">get new sounds beyond states</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:21:02.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">You don't have anything but what machine learning and this tool that I use in. Max. Even if you record 2 gestures. Which is point A&amp;B and and you go you know you do something different and you don't interpret these two, you still are going to find a new sound there. You know what I mean? So that's to me it's very powerful and it's very inspiring. </Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">machine learning</Data></Cell>
+    <Cell><Data ss:Type="String">dialog</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:21:24.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">And I think that my approach to machine learning switch The attention and the approach of instead of being 100% fully conscious of what I want and what I'm looking for, I leave my ear more open to what the machine suggests me, and then I can reflect upon suggestions of the machine learning system and then a dialogue becomes between the two. And I can say yes, I like what you're suggesting and I want to fix this or no, I don't like it. And I'm gonna move on.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">memo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">This description between nodes (max) and machine learning is a great example of the emergence of the 'dialog' between human and machine that follows (suggest sound, etc, agree and refine, disagree and move on, …</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">. So you know the design and then the compositional process. That leads into your improvisational space</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:22:53.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">But I think they're somehow related, of course to each other, and somehow they influence each other like there is never, you know, something that speaks in time. But every time like this is this new system, this system and the instrument is very recent elaboration. So I spent time into building it.</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">interface</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:23:13.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">And I found out that now it's flexible and it can be used like any other controllers can be used. Any other synthesizers or sound processes can be controlled, but with this specific setup I would say that the arch between the sound and just the design part and the performance part. UM, are you know, I I feel like they are divided in the sense that in the first Phase I decide which kind of sound processes do I want to use, which kind of sound qualities I want to have in my performance. And then I set up my controller, which in this case is a motion sensing controller.</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">gesture definition</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:23:53.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">So movements are very important to this. So then I try to define so that's why I turned design. But it's more sound gesture definition. I would say that you know I create a space around me in which I can move and discover new sound. So I would say. That if in my sound gesture design part I find 8 sounds that I really like and I associate them with eight different positions, then all the rest that there is between these eight gestures is something new for me. And during the performative phase it's a discovery. It's an exploration of some of. Place that I wasn't, you know, planning to be to be in so.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:24:37.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">This the space gives me something back and I try to, you know, to to reply to what it suggests and but in a very open space, and I don't know what I'm looking for and I, but I try, you know, to respond to it.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell ss:Index="6" ss:StyleID="s36"><Data ss:Type="String">… (something like) approaching performance do you start from unknown spaces between gesture sets or would you have explored this prior to performing? </Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">memo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">The randomness aspect (in digital instrummental systems contexts) becomes another layer to explore ther relatinoships between varous subsystems and perhaps super-systems along with (more) causal relationships (linear causal? || nonlinear causal). When exploring the relationships of scale in nonlinear causal structures (?) 'randomness' provides layer to the exploration.  There is something in this that perhaps is relating to the complimentary aspect of (in)determminismm, or, there is only so much randomm before order merges...</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">share training sets</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:25:50.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">You know, taking like steal from another training set of another performance and use it with other kind of sound and other space. And even I try, you know, to switch with other people, our training sets and I will play their own gestures into into my system and and vice versa so.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">training set - discovery &amp; 8 sound-gesture examples</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:26:15.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">the goal is to try as much as possible to play, so I would know more or less where I am like if at the beginning I don't have a clue like once I make for the first time a training set of gesture and sound of eight gesture and eight sounds, I don't know what I'm going to discover.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">more play system more like acoustic</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:26:35.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">The more I play in the space, the more I become acquainted and it feels like if you would be an acoustic instrumentalist that you know, the more you play with the instruments, the more you know how your hands should be, how much energy it's going to produce, which sounds so the more I play with it and. </Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">more performance - more structured performance</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:26:59.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">I would say the more performance I do with the system The piece, like the more probably the piece, will become structured or at least give more an idea of a piece</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">structure piece based on gesture/choreographed movement towards &quot;tradition piece&quot;</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:27:10.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">It's very tricky to define a piece in terms like, usually in the traditional composition you have a structure, you have a beginning, you have an end. But in my case there is. I mean I I try to reuse some kind of gestures that I'm used to, like slowly raising my hand, you know, to control volume of a sound, then some kind of quick movements or some other choreographically movements, but. Apart from that, I'm really still trying to define my own set of gestures and movements and make it a more probably traditional kind of piece.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="String">open question - how to define a work/performance</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:27:50.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">But still, yeah, it's an open. It's an open question to me.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s24"><Data ss:Type="String">...intrigued by the intersection between design, composition and improvisation</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">controller becomes instrument</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:28:16.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I think it's very related to the second point that I try to address is when a a MIDI controller or even any controller interface becomes an instrument with which you can play. So this is where I'm I'm now like I'm at the at the at the path in which I build a system that gives me these possibilities of mapping.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">restrict control</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:28:35.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I build an an an interface that gives me this possibility of movement of control. I have 8-10 buttons in my hand, And I do some kind of strategies because the previous setup I had many more buttons, many more knobs and fader. And with these two balls [controllers] I I had to somehow restrict and, you know, lessen the way of control. So I had to find strategies like divide the roll.. Axis in few channels</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">controller becomes instrument</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s20"><Data ss:Type="DateTime">1899-12-31T00:29:05.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">So every channel I have different nodes that I can control so that I can multiply control and so on. But. The moment in which I will shift from having wearing an interface with playing an instrument is where I'm now. So the more I will play and the more I will have feedback from from what I do, the more it will become fun to play and good to play.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">… what ways would you consider it not an instrument at the moment</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">what makes an instrument an instrument</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:30:07.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">That's a good, good question. I mean, there are a lot of reasons why it's not an instrument, but I think the main core of this question is what makes an instrument an instrument.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">dissassembled instrument (partial instrument)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:30:16.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">And right in my case, like I can get a lot of interesting functions, but it feels like now it's more. You know, it's feels like it's a disassembled instrument or not fully assembled yet, right? Like, if you have flutes that has three pieces, like I only have two connected in a kind of weird place.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">instrument = control over musical intentions</Data></Cell>
+    <Cell><Data ss:Type="String">unpredictable outcomes - dialogue</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s20"><Data ss:Type="DateTime">1899-12-31T00:30:37.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s39"><Data ss:Type="String">So still need to find a way to block it and give it a shape, but I think that what makes an instrument an instrument, another controller is that it gives you control over Your musical intentions, but it also allows to be open to unpredictable kind of outcomes, right? So if you play in a specific way that you and you were expecting a sound to come out, something slightly different happen and you react to it, you try to adjust to it and there is a dialogue between.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">unpredictable outcomes - dialogue</Data></Cell>
+    <Cell><Data ss:Type="String">what makes an instrument an instrument</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:31:10.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s39"><Data ss:Type="String">What are you doing? What are you thinking and musically are interested in to doing and what the instrument responds to your action and when when this relationship is established, then I think. You're closer to an instrument than a controller than a than an than a simple interface.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">memo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s40"><Data ss:Type="String">This is a great point &#45;- the combination and space for defining and executing musical intention entangled with the space and emphasis of unpredicatable outcomes &#45;&#45;- this seems to be the stark difference from acoustic instrument… developing  interaction to express musical intention in dialogue with unpredicatable (yet musically interesting under ones broader intentions - intention across scale)</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s24"><Data ss:Type="String">… further describe 'latencies' as mention in your reflection (machine, interface, body…)</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">trained to not make mistakes (acoustic)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:31:59.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">It's a risky word latencies because they mean something, but it also doesn't mean anything like in this context. What I'm trying to say is that. I'm always trying to since my background is very traditional and have been trained not to make mistake, never fail, do everything you know 100% and I found myself more thinking of how to move and how to, you know, adjust my body posture than really focusing on what I was playing and.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">question of mistakes from a 'neatly' built system?</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:32:31.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">This kind of training And this, you know, it was Very radical from where I was coming from and it wasn't really suiting me and that's why I started to say And much more interested in what are the mistakes of my body and what which kind of mistakes comes out from a system that you build so neatly in a computer.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">sound - holding interest (varience-change)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s20"><Data ss:Type="DateTime">1899-12-31T00:32:59.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">I mean also if you think about sound, what makes the sound beautiful to our ear is not a pure, I mean it can be a pure sine wave, but if you start to add some kind of distortion or a slight in pitch different, the tuned voice, it's there that you start to be interested in in the sound and say ohh look this.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">beauty in mistakes, failure, errors during process</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:33:21.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">It's something different than a pure sine wave, right? So I I I feel about latencies as a kind of. You know, procedural mistake of you know, our body of the movements. Like if I played Theremin and I do a slight, you know, if I move slightly forward then the pitch changes completely. But this is also part of, you know, it might be also part of the beauty of a performance this kind of Mistake, error and failure during the process. So I I try to embrace what happens.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">distance between idea and ability</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:33:56.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">And try to turn this failure and latencies of, you know, our body the way it moves the way there is so much. Sometimes there is so much distance between an idea and what your body can do and really express there is sometimes a huge a huge space. And also, you know speaking about latencies of a machine machine In at, of course, now it's very fast.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">drop outs</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:34:24.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">But sometimes, like as I experienced in my first try out, I had a lot a lot of dropouts, a lot of. But you know, this is another topic, but I would have been very curious to hear to the results of this, you know, condensation of sound that the the 1st 5 minutes you remember. So I was really curious to see which kind of music Came out from me.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">… how would you describe ohh as you know being able to express your intent.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">create mappings (posture - sound)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:36:34.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">In that case, of course, like, oh, it's a system that allows me to create these kind of mappings. So to create this kind of association between my posture and the and the sound and.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">sound design</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:36:50.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">It allows me To do this in a pretty you know I. I even started to the sound design and just the design session within a performance. So try to set up some position and then play around them. So I find out that this system allows me to.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">agnostic interface</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:37:10.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">You know, create a decent way of expressing my movement and my musical intention through my interface. So in this case, like this, O is very set up for my interface, but it can be used with a simple core nano control or any kind of MIDI controller of course.</Data></Cell>
+   </Row>
+   <Row ss:Height="102">
+    <Cell><Data ss:Type="String">linear</Data></Cell>
+    <Cell><Data ss:Type="String">draw circle - change size/speed - different intention</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:37:29.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">But in this way, like I couldn't really find a better way than using this linear regression algorithm to give me this control over continuous sound. As a next step, I think that it would be very interesting to find out how just the following and just the follower would work. So if I draw a circle like this is more thinking about gestures and intentions. Like if I make it more circle. And I want this circle to be associated to a specific kind of sound word. And if I make this circle wider or faster then you know this has different intention, right? In my case I managed to get a very simple and tight, you know, piece of software that allows me to, you know.</Data></Cell>
+   </Row>
+   <Row ss:Height="85">
+    <Cell><Data ss:Type="String">complementing sound with different sound through gesture</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:38:18.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I hear a sound that is very low frequency, very bass, and to me suggests you know, not too much tension, but rather some call calm movement so that I could, you know. Program with sound to be related. When my hands are just relaxed. And then if I want that if I found a brighter sound, like a sound that becomes more brighter and even higher pitch, then I can open my hands and this intention for me from opening and rising from something very low to something open and bright red gives me this kind of close.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">intention - open/close sound worlds</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:38:54.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">gives me this kind of close. Relationship between my intention, which is, you know to open up a different kind of sound word or close it down once again, right?</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">create mappings (posture - sound)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:39:04.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">So to this extent, I think that my system allows you know very basic. Gesture mappings with the with sound, but there is still so much to to investigate and there are, but it's very it's a very potential. I would say and and. It's very nice to play with.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">...the relationship or not you see between improvisation and indeterminism and randomness</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">randomness &amp; improv distinct</Data></Cell>
+    <Cell><Data ss:Type="String">random suggestions</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:41:16.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s35"><Data ss:Type="String">so in improvisation and randomness. Well, there are definitely 2 distinct, you know methods. They're both great. I think in my case and in my system I use randomness more in a compositional side where I try to, you know, remove every pre concept from what I'm looking for and be open to what. The system would suggest me and then once I hit through randomness, some points that I'm really curious and interested about</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">randomness - no link to previous state</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:41:51.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">In terms of performance and live improvisation. You know you are. There is always feedback like, with randomization randomness  you don't have any feedback. like you don't have like a point after you know if you if you have Button that gives. You the most random outcome that you would expect and you hit this button again. </Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">randomness - no link to previous state</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:42:14.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">There is almost no Link with what happened before right while in and in in, in, in an improvisation there is always some kind of feedback coming in. In play. It can be a sound feedback and.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">randomness - uninteresting as performance structure</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:42:27.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">You know you can if you want to link, you know, a sudden sound you might want to link it with silence before right? Or if you want to have more noisy part it needs to be probably, you know preceded by a more calm scenario in order to give you. You know, kind of the diversity throughout the performance, so it it can't be randomness, live improvisation and improvisation can't be randomness. I think. I mean can can be everything can be. So I'm not saying that it can't be but.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">stay away fromm conscious action [perception-action loop]</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:43:03.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">In my approach, I tend to to get. I try to be open like open ears, open hands and try to be open to feedback. So to what comes back to me and the way I react. So I don't really. I don't really make too many conscious actions actually. Like what I really like and what the system allowed me is that once I create my system.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">thinking about audience</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:43:28.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I can feel free in a space and there are no preconception there is no, you know, a good play or a bad way. There is not a good way or a bad way to play. But there is a system in which you can play and it doesn't matter if you make mistake or if you don't. From your point of view. But of course the more you play and the more you think about an audience. Like how the audience is going to absorb. Understand. What are you doing? So there is a balance, of course, between between these two. Points.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">Do you include your sound gesture design process in performance?</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">sound gesture design in performance</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:44:19.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I I did that a few times. I did that as a few time. And like it works if it is clear like now I don't like even in the performance that I sent you last time. I just loaded my training sets and I played with what I already used as a just sound mapping. But I think it's very fascinating to show the audience that you are in the middle of an empty set, you know, and you're starting over with with your, with your own system.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">sound gesture design in performance</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:44:52.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">And so I did that and I I would say I will do it again probably when I will have everything under control and it might be clear to the audience that I'm building the system, but then I will have to find the turning point between this is the end of sound design and this is the beginning of performance or. You know, try to combine and blend them together.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">Further describe the random sound selection process</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data></Cell>
+    <Cell><Data ss:Type="String">compared to acoustic composition</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:45:44.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">Alright. Yeah, it's. I mean, it's funny to. It's a nice question that to me it it became such an embedded process that I don't even think about it. You know I'm I'm trying to really go, you know in in your position between a traditional way of, You know, usually a composer has already in mind which kind. Of. Music they want to play and they just need to put it on a paper and and it's there, right? In my case, it's either the opposite or it's, you know, a different kind of way. And I.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data></Cell>
+    <Cell><Data ss:Type="String">global random button</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:46:18.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I Try to blank. Out my head and say, OK, this is what I have.  And I simply have a button. For, I mean, in my system it has different layers, but let's say if we go global I have my small let's say setup in which we have few buttons and few options to tweak randomness so that it becomes you know more probabilistic kind of movement and.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data></Cell>
+    <Cell><Data ss:Type="String">random weighting</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:46:44.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I have said, And and actually as a small parentheses. I even made this random system a generative system to play with in in terms that there are some envelopes for the sounds for my,  For my sound processes and my synthesizers parameters that each one of those is mapped to one, let's say dial or one control and this random button basically shifts everything and I can change the weights of you know is it run like random walk?</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data></Cell>
+    <Cell><Data ss:Type="String">different random layers/trajectories</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:47:21.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">So I want to really. You know, move very finely through this kind of randomness. Or do I want to change over completely? Or do I want to, you know. I can hit the bottom and leave this random process for a while to change very smoothly and very gradually, and then there is another button which is stop and or like 4. I say to go back. How do you say? </Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data></Cell>
+    <Cell><Data ss:Type="String">record random selection</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:47:49.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">Like not forward. Yeah, to reverse back. And I can go back if something you know, sleeper my mind and I can go back and say, OK, this is the sound that I like and then I record and I saw a preset of of these, you know, dials and then I move on again and then I click this sound and I add this not this. The button of random. Oneness and I leave its, you know, flow and discover. I mean, I'm very interested about the combinations of these parameters and.</Data></Cell>
+   </Row>
+   <Row ss:Height="34">
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data></Cell>
+    <Cell><Data ss:Type="String">leave system to scrub/scroll through random possibilities</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:48:22.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">And I leave and I leave this and I leave the system to scrub or scroll through as many possibility as possible and it can be either fast movement or a very slow movement. And as soon as I. As he finds it like a store it.</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="6" ss:StyleID="s37"><Data ss:Type="String">does randomness come into your system in other ways</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">randomness</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:50:28.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">Well, I still have this random button embedded in one of the button of my ball, just in case. I know there are some moments in which I want to introduce, you know, once I explored a lot of ways and place, I just want to, you know, have something new and also with the roll access I can change how fast. And how slow this random process work like moves moves so it can. Be either super. Fast, you know, changes or it can be very slow random changes.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">reduced listening</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:51:00.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">But I think that. Run like this process of randomizing my system my let's say synthesizer with 12 parameters it it takes a longer time for for it to be presented in a performance I think because. Before coming becoming aware of the sound that you're interested into, you might take and actually it's a. It's a beautiful process because you know you really have a reduced listening and.</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">reduced listening</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:51:29.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">You you're just there for one hour and you just listen to the sound without really giving too much. Too much, too much conscious definitions or categorization, you just, you know, try to be to absorb as much as possible and there is always this kind of gap between being completely fascinated with what happens. And then you say, OK, stop.</Data></Cell>
+   </Row>
+   <Row ss:Height="68">
+    <Cell><Data ss:Type="String">system development</Data></Cell>
+    <Cell><Data ss:Type="String">randomness has a beauty in performance</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s21"><Data ss:Type="DateTime">1899-12-31T00:51:50.000</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s34"><Data ss:Type="String">I'm conscious and I'm gonna choose these. Right? So it's you're always trying to fade in and fade. Out through the world of, you know, really enjoying the sounds and the and the music and then making compositional decisions and during a performance everything is faster. You have to choose quickly what to do. And so randomization for now it's more for me it's compositional part like the first phase. But I think it has also a beauty in in terms of performance.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>125</Zoom>
+   <TopRowVisible>5</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C1:R1048576C2</Range>
+   <Type>List</Type>
+   <Value> codes</Value>
+  </DataValidation>
+ </Worksheet>
+ <Worksheet ss:Name="axial 1">
+  <Names>
+   <NamedRange ss:Name="codes"
+    ss:RefersTo="=OFFSET('axial 1'!R2C1, 0, 0, COUNTA('axial 1'!C1), 1)"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="28" ss:ExpandedRowCount="92" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:AutoFitWidth="0" ss:Width="253"/>
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="107" ss:Span="1"/>
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="217"/>
+   <Column ss:AutoFitWidth="0" ss:Width="87"/>
+   <Column ss:AutoFitWidth="0" ss:Width="217"/>
+   <Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="137"/>
+   <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="130"/>
+   <Column ss:AutoFitWidth="0" ss:Width="58"/>
+   <Column ss:AutoFitWidth="0" ss:Width="227"/>
+   <Column ss:AutoFitWidth="0" ss:Width="102"/>
+   <Column ss:AutoFitWidth="0" ss:Width="232"/>
+   <Column ss:AutoFitWidth="0" ss:Width="133"/>
+   <Column ss:AutoFitWidth="0" ss:Width="138"/>
+   <Column ss:Index="21" ss:AutoFitWidth="0" ss:Width="136"/>
+   <Row ss:StyleID="s16">
+    <Cell><Data ss:Type="String">codes</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">acoustic instrument</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">technology</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">processes</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sound</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">new music composers</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">roles</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">thinking</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">metaphors</Data></Cell>
+    <Cell ss:Index="21"><Data ss:Type="String">system structure(s)</Data></Cell>
+    <Cell ss:Index="23"><Data ss:Type="String">system roles/functionalities</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="String">key ideas</Data></Cell>
+    <Cell ss:Index="28"><Data ss:Type="String">descriptions of immediate action response h-s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">basics of music</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">trumpet</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">microphone</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">feedback</Data></Cell>
+    <Cell><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">starting from results</Data></Cell>
+    <Cell><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">John Cage</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">composer in studio - performatively approach studio</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">systems thinking</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">turntable (scrub)</Data></Cell>
+    <Cell><Data ss:Type="String">explicit</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="String">immediate action response</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">acoustic instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">francesco</Data></Cell>
+    <Cell><Data ss:Type="String">piano</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">recording device</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">granular synthesis (grains, granular clouds) </Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">Xenakis</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">perform studio</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">in the mix</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">throwing/catching</Data></Cell>
+    <Cell><Data ss:Type="String">explicit</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="String">systems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">music origins</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">4 track</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">mapping</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">pierre Schauffeur</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">hands on mixer, equalizer, … </Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">complex system</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="String">topology of influence</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">technology</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">effects processes</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String"> David Tudor</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">to hands on the sound of complex web of processes</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">work with limitations of system (constraints)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">korg MS-20 </Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">curtis Roads</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">studio based performance to DIS</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">freeze system for awhile (to perform)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">new music composers</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">analog synthesizers </Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">Pauline Oliveros</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">comment boxes (max) in system - notes for development</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">composition</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">tape machines reel to reel tape machine</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">… it's always been about mapping, the metaphor, and the sound, and then working backwards</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">education</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">synthesizers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">performative</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">multitrack recorder (primary medium)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">granular synthesis</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">MS-2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">systems (thinking)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">vocoder</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">samplers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hands on …</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">modulation between voice and recorded objects</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">digital technologoy</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">perform studio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">new music processes</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="5" ss:StyleID="s23"><Data ss:Type="String">dvn</Data></Cell>
+    <Cell><Data ss:Type="String">composer in studio - performatively approach studio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">system development</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">sensors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">constraints/limitation</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">extended accordian</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">metaphor</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">feedback &amp; systems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">immediate action response</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">digital technology was the way to do it…</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">context explanation</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">memo: technology and process as category break down]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">value in perceptio</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">FTM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">instrument vs instrumental system</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Vocal mosaicing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">boundary/category shift</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">MFCC's</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">listening</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Jamoma</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="6"><Data ss:Type="String">Wacom Tablet/pen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">naming system</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Max/msp</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">input/output</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">mubu (max)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">blank canvas (empty set)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">form/structure</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">interaction with instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">combine acoustic &amp; electronic</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gap between acoustic and electronic muscicians (duo)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">machine learning</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">closer to sound in an embedded way</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gesture &amp; intention</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">facination with new tecchnologies</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mapping was too Cerebral</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">focus more on music and expression than mathematics</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">max - nodes</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">record position</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">no sound beyond states</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">get new sounds beyond states</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dialog</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">memo</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">interface</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gesture definition</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">share training sets</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">training set - discovery &amp; 8 sound-gesture examples</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">more play system more like acoustic</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">more performance - more structured performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">structure piece based on gesture/choreographed movement towards &quot;tradition piece&quot;</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">open question - how to define a work/performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">controller becomes instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">building interface (movement-control)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">restrict control</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">what makes an instrument an instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dissassembled instrument (partial instrument)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">instrument = control over musical intentions</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">unpredictable outcomes - dialogue</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">trained to not make mistakes (acoustic)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">question of mistakes from a 'neatly' built system?</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound - holding interest (varience-change)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">beauty in mistakes, failure, errors during process</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">distance between idea and ability</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">drop outs</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">create mappings (posture - sound)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound design</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agnostic interface</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">linear regression algorithm</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">draw circle - change size/speed - different intention</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">complementing sound with different sound through gesture</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intention - open/close sound worlds</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness &amp; improv distinct</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">random suggestions</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness - no link to previous state</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness - uninteresting as performance structure</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">stay away fromm conscious action [perception-action loop]</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">beyond good, bad, and mistakes</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">thinking about audience</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound gesture design in performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">compared to acoustic composition</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">global random button</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">random weighting</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">different random layers/trajectories</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">record random selection</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">leave system to scrub/scroll through random possibilities</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reduced listening</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness a compositional strategy</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness has a beauty in performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>84</Zoom>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="codes">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="92" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:AutoFitWidth="0" ss:Width="115"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">codes</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">basics of music</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acoustic instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">music origins</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">technology</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">new music composers</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">composition</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">education</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">performative</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">granular synthesis</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">systems (thinking)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acoustmatic performace (perf ea-comp sounds)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hands on …</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">digital technologoy</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">new music processes</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">system development</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">constraints/limitation</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">metaphor</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">immediate action response</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">context explanation</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">value in perceptio</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">instrument vs instrumental system</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">boundary/category shift</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">listening</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell><Data ss:Type="String">naming system</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">input/output</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">blank canvas (empty set)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">form/structure</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">interaction with instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">combine acoustic &amp; electronic</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gap between acoustic and electronic muscicians (duo)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">machine learning</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">closer to sound in an embedded way</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gesture &amp; intention</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">facination with new tecchnologies</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mapping was too Cerebral</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">focus more on music and expression than mathematics</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">max - nodes</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">record position</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">no sound beyond states</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">get new sounds beyond states</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dialog</Data><NamedCell ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">memo</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">interface</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gesture definition</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">share training sets</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">training set - discovery &amp; 8 sound-gesture examples</Data><NamedCell
+      ss:Name="codes"/></Cell>
+    <Cell><Data ss:Type="String">ml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">more play system more like acoustic</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">more performance - more structured performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">structure piece based on gesture/choreographed movement towards &quot;tradition piece&quot;</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">open question - how to define a work/performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">controller becomes instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">building interface (movement-control)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">restrict control</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">what makes an instrument an instrument</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dissassembled instrument (partial instrument)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">instrument = control over musical intentions</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">unpredictable outcomes - dialogue</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">trained to not make mistakes (acoustic)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">question of mistakes from a 'neatly' built system?</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound - holding interest (varience-change)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">beauty in mistakes, failure, errors during process</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">distance between idea and ability</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">drop outs</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">create mappings (posture - sound)</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound design</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agnostic interface</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">linear regression algorithm</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">draw circle - change size/speed - different intention</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">complementing sound with different sound through gesture</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intention - open/close sound worlds</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness &amp; improv distinct</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">random suggestions</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness - no link to previous state</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness - uninteresting as performance structure</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">stay away fromm conscious action [perception-action loop]</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">beyond good, bad, and mistakes</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">thinking about audience</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sound gesture design in performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">describing random sound/process selection</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">compared to acoustic composition</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">global random button</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">random weighting</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">different random layers/trajectories</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">record random selection</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">leave system to scrub/scroll through random possibilities</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reduced listening</Data><NamedCell ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness a compositional strategy</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">randomness has a beauty in performance</Data><NamedCell
+      ss:Name="codes"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>92</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="coding-template">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:StyleID="s18" ss:Span="1"/>
+   <Row ss:StyleID="s16">
+    <Cell><Data ss:Type="String">CODES</Data></Cell>
+    <Cell><Data ss:Type="String">CODES</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">TIME</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">TEXT</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C1:R1048576C2</Range>
+   <Type>List</Type>
+   <Value> codes</Value>
+  </DataValidation>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "xml-js": "^1.6.11",
+    "xml2json": "^0.12.0"
+  }
+}
